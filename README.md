@@ -26,7 +26,7 @@
   <img align="right" alt="Lucas-gif" width="350" heigth="350" src="https://blog.kakaocdn.net/dn/zHamm/btqD5InE8dk/hBJy9mJotgKVmniFls7JEK/img.gif">
 </div>
   
-  ##Entre em contato
+  ## Entre em contato
  
 <div> 
   <a href = "mailto:luklucas42@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
