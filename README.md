@@ -23,7 +23,7 @@
 
 <img align="center" alt="Lucas-vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-original.svg">
 
-  <img align="right" alt="Lucas-gif" width="350" heigth="350" src="https://blog.kakaocdn.net/dn/zHamm/btqD5InE8dk/hBJy9mJotgKVmniFls7JEK/img.gif">
+  <img align="right" alt="Lucas-gif" width="281" heigth="609" src="https://media.discordapp.net/attachments/571752920685477889/908426182977028096/Screenshot_1.jpg?width=281&height=609">
 </div>
   
   ## Entre em contato
